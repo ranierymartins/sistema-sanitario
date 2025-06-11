@@ -633,11 +633,11 @@ function App() {
                         <tbody className="divide-y divide-gray-200">
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Consultoria Técnica</td>
-                            <td className="py-4 px-4 text-sm text-right">10.000,00</td>
+                            <td className="py-4 px-4 text-sm text-right">30.000,00</td>
                           </tr>
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Consultoria Jurídica (Código Tributário)</td>
-                            <td className="py-4 px-4 text-sm text-right">10.000,00</td>
+                            <td className="py-4 px-4 text-sm text-right">30.000,00</td>
                           </tr>
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Desenvolvimento</td>
@@ -645,7 +645,7 @@ function App() {
                           </tr>
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Instalação e Treinamento</td>
-                            <td className="py-4 px-4 text-sm text-right">20.000,00</td>
+                            <td className="py-4 px-4 text-sm text-right">30.000,00</td>
                           </tr>
                           <tr className="bg-blue-50 font-bold">
                             <td className="py-4 px-4">TOTAL IMPLEMENTAÇÃO</td>
@@ -654,10 +654,6 @@ function App() {
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Manutenção Mensal (opção 1)</td>
                             <td className="py-4 px-4 text-sm text-right">15.000,00 + 10% do arrecadado</td>
-                          </tr>
-                          <tr>
-                            <td className="py-4 px-4 text-sm font-medium text-gray-900">Manutenção Mensal (opção 2)</td>
-                            <td className="py-4 px-4 text-sm text-right">30.000,00 fixo</td>
                           </tr>
                         </tbody>
                       </table>
