@@ -641,7 +641,7 @@ function App() {
                           </tr>
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Desenvolvimento</td>
-                            <td className="py-4 px-4 text-sm text-right">30.000,00</td>
+                            <td className="py-4 px-4 text-sm text-right">60.000,00</td>
                           </tr>
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Instalação e Treinamento</td>
