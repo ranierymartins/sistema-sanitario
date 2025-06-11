@@ -653,7 +653,7 @@ function App() {
                           </tr>
                           <tr className="bg-blue-50 font-bold">
                             <td className="py-4 px-4">TOTAL IMPLEMENTAÇÃO</td>
-                            <td className="py-4 px-4 text-right text-blue-600">70.000,00</td>
+                            <td className="py-4 px-4 text-right text-blue-600">180.000,00</td>
                           </tr>
                           <tr>
                             <td className="py-4 px-4 text-sm font-medium text-gray-900">Manutenção Mensal (opção 1)</td>
