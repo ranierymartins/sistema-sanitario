@@ -656,7 +656,7 @@ function App() {
                             <td className="py-4 px-4 text-right text-blue-600">180.000,00</td>
                           </tr>
                           <tr>
-                            <td className="py-4 px-4 text-sm font-medium text-gray-900">Manutenção Mensal (opção 1)</td>
+                            <td className="py-4 px-4 text-sm font-medium text-gray-900">Manutenção Mensal</td>
                             <td className="py-4 px-4 text-sm text-right">15.000,00 + 10% do arrecadado</td>
                           </tr>
                         </tbody>
